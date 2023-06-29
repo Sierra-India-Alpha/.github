@@ -8,28 +8,15 @@
 
   <h3 align="center">Sierra India Alpha</h3>
   <p align="center">
-    Projeto de sistema voltado a um empresa que fornece cursos profissionailizantes 
+    Projeto para coordenação de empresa de cursos profissionailizantes 
   </p>
 </div>
 
-<details>
-  <summary>Índice</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Sobre o projeto</a>
-      <ul>
-        <li><a href="#built-with">Feito com</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-## Sobre o projeot
+## :speech_balloon: Sobre o projeto
 
 ![Sia Screenshot](sia-screenshot.jpg)
 
-SIA (Sierra India Alpha) é um projeto realizado para a matéria de Engenharia de Software na FatecSP.
+SIA (Sierra India Alpha) é um projeto realizado para a disciplina de Engenharia de Software na FatecSP.
 Nosso grupo se juntou para fazer um sistema cujo objetivo é dar apoio a uma empresa de cursos profissionalizantes.
 
 O software foi pensado para o uso de três tipos de usuário 
@@ -43,8 +30,7 @@ Em geral, é possível realizar cadastro e consulta de unidades de ensino, curso
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 
-### Feito com
-
+## :robot: Feito com
 * Noje.js
 * React.js
 * MySQL
@@ -52,7 +38,8 @@ Em geral, é possível realizar cadastro e consulta de unidades de ensino, curso
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
-## Contact
-Livia Herculano - [Perfil no Linkedin](www.linkedin.com/in/livia-herculano-9734331b4) - liviaher.oliveira@gmail.com
-Luca Kanashiro - [Perfil no Linkedin]()
-Osvaldo Gabriel - [Perfil no Linkedin]()
+## :octocat: Contatos
+Livia Herculano - [Perfil no Linkedin](www.linkedin.com/in/livia-herculano-9734331b4) - [Github](https://github.com/liviaher) - liviaher.oliveira@gmail.com
+Luca Kanashiro - [Perfil no Linkedin]() - [Github]()
+Osvaldo Gabriel - [Perfil no Linkedin]() - [Github]()
+
