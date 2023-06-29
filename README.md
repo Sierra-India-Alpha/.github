@@ -21,21 +21,38 @@
         <li><a href="#built-with">Feito com</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Pre-requisitos</a></li>
-        <li><a href="#installation">Instalação/a></li>
-      </ul>
-    </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
-## About The Project
+## Sobre o projeot
 
 ![Sia Screenshot](sia-screenshot.jpg)
 
-<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
+SIA (Sierra India Alpha) é um projeto realizado para a matéria de Engenharia de Software na FatecSP.
+Nosso grupo se juntou para fazer um sistema cujo objetivo é dar apoio a uma empresa de cursos profissionalizantes.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+O software foi pensado para o uso de três tipos de usuário 
+-Administrador
+-Coordenador
+-Divulgador
+e se adapta de acordo com o login da sessão.
+
+Em geral, é possível realizar cadastro e consulta de unidades de ensino, cursos, turmas, alunos, responsáveis e usuários do sistema.
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
+
+
+### Feito com
+
+* Noje.js
+* React.js
+* MySQL
+* Sequelize
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
+
+## Contact
+Livia Herculano - [Perfil no Linkedin](www.linkedin.com/in/livia-herculano-9734331b4) - liviaher.oliveira@gmail.com
+Luca Kanashiro - [Perfil no Linkedin]()
+Osvaldo Gabriel - [Perfil no Linkedin]()
