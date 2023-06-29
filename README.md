@@ -40,6 +40,10 @@ Em geral, é possível realizar cadastro e consulta de unidades de ensino, curso
 
 ## :octocat: Contatos
 Livia Herculano - [Perfil no Linkedin](www.linkedin.com/in/livia-herculano-9734331b4) - [Github](https://github.com/liviaher) - liviaher.oliveira@gmail.com
+<br/>
 Luca Kanashiro - [Perfil no Linkedin]() - [Github]()
+<br/>
 Osvaldo Gabriel - [Perfil no Linkedin]() - [Github]()
+<br/>
 
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
